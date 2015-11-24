@@ -1,0 +1,2 @@
+# AVFoundation
+A simple app, very simple. I just wanted to implement photo taking with the AVFoundtaion framework. Took much searching and trial and error to figure it all out. The code is pretty fragile, I'm going to go back later in the upcoming weeks to refactor it and make it reusable for future projects. 
